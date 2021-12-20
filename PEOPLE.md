@@ -1,1 +1,1 @@
-Haskell Curry
+Lisp Racket
