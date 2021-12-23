@@ -20,3 +20,10 @@ Extras
 -- Canvasanimation
 -- SVG
 -- C#
+
+  
+Email coding:
+-- book
+-- articles
+-- practice
+
