@@ -7,6 +7,7 @@ HTTP: HTTP in Action, EVERYTHING ab Browsers
 
 Hexlet: Frontend Javascript
 --//--: SICP
+--//--: Math Logic
 
 
 
