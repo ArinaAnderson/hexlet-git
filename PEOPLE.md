@@ -16,4 +16,14 @@ Prjects:
 -- Vector
 -- Form (EloqJS)
 
---Canvas, animation - extras
+-- Canvas, animation - extras
+  - svg
+  
+Email coding:
+-- book
+-- articles
+-- practice
+
+
+
+
